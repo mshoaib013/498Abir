@@ -1,0 +1,10 @@
+export const EMPLOYEE_NAME = "e_name";
+export const EMPLOYEE_EMAIL = "e_mail";
+export const EMPLOYEE_PHONE = "e_phone";
+export const OFFICE_EMAIL = "o_mail";
+export const EMPLOYEE_PIC = "e_pic";
+export const EMPLOYEE_GATEPASS = "e_pass";
+export const EMPLOYEE_BUILDING = "e_bing";
+export const EMPLOYEE_DESIGNATION = "e_desig";
+export const EMPLOYEE_DEPARTMENT = "e_dept";
+export const EMPLOYEE_IS_ADMIN = "e_isadmin";

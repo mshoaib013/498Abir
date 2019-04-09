@@ -1,0 +1,11 @@
+export const GUARD_NAME = "g_name";
+export const GUARD_PASSWORD = "g_pass";
+export const GUARD_PIC = "g_pic";
+export const GUARD_NID = "g_nid";
+export const GUARD_JOIN_DATE = "g_joining";
+export const GUARD_PHONE = "g_phone";
+export const GUARD_ORG = "g_org";
+export const OFFICE_EMAIL = "o_mail";
+export const GUARD_THUMB = "g_thumb";
+export const GUARD_UID = "g_uid";
+export const GUARD_ARRAY = "g_array";

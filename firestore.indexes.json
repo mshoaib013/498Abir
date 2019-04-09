@@ -1,0 +1,47 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "visitors",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "isin",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "v_checkout",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "invitees",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "hasdone",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "i_mtime",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "notifications",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "n_type",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "n_time",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}

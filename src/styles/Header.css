@@ -1,0 +1,70 @@
+.header {
+  height: 90px;
+  background: #ffffff;
+  border-bottom: 1px solid #c0c0c0;
+}
+.app {
+  height: 100vh;
+  background: #f8f9fb;
+}
+#logo {
+  padding-right: 20px;
+  border-right: 1px solid #c0c0c0;
+}
+#userLogo {
+  border: 1px solid #c0c0c0;
+}
+.marginRight {
+  /* color: gray; */
+  margin-right: 40px;
+}
+
+.popover-basic {
+  align-content: center;
+  text-align: center;
+}
+.fontawesome {
+  color: #c0c0c0;
+  margin-right: 5px;
+}
+/* active="true" */
+.cardHeader {
+  font-size: 20px;
+  color: gray;
+}
+.titleSearch {
+  margin-top: 1%;
+  margin-left: 4%;
+  margin-right: 4%;
+}
+
+.fontawesome-search {
+  color: #ff3300;
+}
+.bar {
+  background: #ffffff;
+}
+.navLinkCol {
+  font-size: 17px;
+  color: #ff3300;
+}
+.navLinkCol:hover {
+  /* font-size: 18px; */
+  /* font-style: bold; */
+  color: black;
+}
+
+#nav-dropdown {
+  color: ff3300;
+  font-weight: bold;
+  background-color: red;
+}
+
+/* .marginRight.active {
+  color: gray;
+  border-bottom: 2px solid #ff3300;
+}
+.marginRight:hover {
+  color: gray;
+  border-bottom: 2px solid #ff3300;
+} */

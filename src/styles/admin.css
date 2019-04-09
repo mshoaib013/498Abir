@@ -1,0 +1,21 @@
+.create-office-id {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+
+/* input {
+  width: 200px;
+  border-radius: 10px;
+  transition: 1000ms;
+  overflow: hidden;
+} */
+
+button {
+  border-radius: 10px;
+  overflow: hidden;
+  border: 0;
+}

@@ -1,0 +1,113 @@
+.cdrdView {
+  margin-top: 1%;
+  margin-left: 4%;
+  margin-right: 4%;
+  -moz-transform: scale(0.8, 0.8); /* Moz-browsers */
+  zoom: 0.8; /* Other non-webkit browsers */
+  zoom: 80%; /* Webkit browsers */
+  /* color: #c0c0c0; */
+}
+.headerTitle {
+  color: #f4452a;
+  font-weight: bold;
+  font-size: 22px;
+}
+.headerSearch {
+  border: 1px solid #f4452a;
+  background-color: white;
+  height: 50px;
+  padding: 14px 28px;
+  font-size: 16px;
+  border-radius: 30px 0px 0px 30px;
+  outline: none;
+}
+.headerSearch::placeholder {
+  padding: 14px 28px;
+  font-size: 23px;
+  /* font-style: bold; */
+  color: #f4452a;
+}
+.headerSearchBtn {
+  border: 1px solid #f4452a;
+  background-color: #f4452a;
+  height: 50px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 0px 30px 30px 0px;
+  outline: none;
+}
+.datepickerInput {
+  border: 1px solid #f4452a;
+  /* background-color: #f4452a; */
+  height: 50px;
+  /* width: 480px; */
+  text-align: center;
+  color: #f4452a;
+  /* padding: 10px 20px; */
+  font-size: 22px;
+  cursor: pointer;
+  border-radius: 30px 30px 30px 30px;
+  outline: none;
+}
+
+.headerSearchBtn:hover {
+  border: 1px solid #f4452a;
+  background-color: #f4452a;
+  height: 50px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 0px 30px 30px 0px;
+  outline: none;
+}
+.headerSearchBtn:disabled {
+  border: 1px solid #f4452a;
+  background-color: #f4452a;
+  height: 50px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 0px 30px 30px 0px;
+  outline: none;
+}
+
+.fontawesome-search {
+  color: white;
+  font-size: 20px;
+}
+.nextDiv {
+  width: 100wh;
+  padding-right: 20px;
+  padding-bottom: 30px;
+}
+.nextBtn {
+  border: 1px solid #f4452a;
+  background-color: #f4452a;
+  color: white;
+  height: 50px;
+  padding: 14px 28px;
+  /* font-size: 20px; */
+  cursor: pointer;
+  border-radius: 30px 30px 30px 30px;
+  outline: none;
+  width: 100px;
+  /* float: right; */
+}
+
+/* .searchInputFloat {
+  padding-right: 0px;
+  margin-right: 0px;
+  float: right;
+}
+
+.searchBtnFloat {
+  padding-right: 0px;
+  margin-right: 0px;
+  float: right;
+}
+.searchFull {
+  padding-right: 0px;
+  margin-right: 0px;
+  float: right;
+} */

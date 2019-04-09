@@ -1,0 +1,12 @@
+export const VISITOR_NAME = 'v_name';
+export const VISITOR_PURPOSE = 'v_purpose';
+export const VISITOR_PIC = 'v_pic';
+export const VISITOR_CHECKIN = 'v_checkin';
+export const VISITOR_CHECKOUT = 'v_checkout';
+export const VISITOR_PHONE = 'v_phone';
+export const VISITOR_EMAIL = 'v_mail';
+export const VISITOR_ORG = 'v_org';
+export const VISITOR_GATEPASS = 'v_gpass';
+export const EMPLOYEE_EMAIL = 'e_mail';
+export const OFFICE_EMAIL = 'o_mail';
+export const VISITOR_THUMB = "v_thumb";

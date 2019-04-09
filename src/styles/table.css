@@ -1,0 +1,34 @@
+.cdrdView {
+  margin-top: 1%;
+  margin-left: 4%;
+  margin-right: 4%;
+  color: #c0c0c0;
+}
+
+/* table.table-bordered {
+  border: 1px solid red;
+  margin-top: 20px;
+} */
+/* table.table-bordered > thead > tr > th {
+  border: 1px solid #dee2e6;
+}
+table.table-bordered > tbody > tr > td {
+  border: 1px solid #dee2e6;
+} */
+
+td {
+  max-width: 120px; /* Customise it accordingly */
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+tr:hover {
+  background: #f5622b;
+  white-space: normal;
+  overflow: visible;
+}
+td:hover {
+  white-space: normal;
+  overflow: visible;
+}

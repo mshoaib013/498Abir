@@ -1,0 +1,13 @@
+export const EMPLOYEE_EMAIL             =       "e_mail"        ;
+export const OFFICE_EMAIL               =       "o_mail"        ;
+export const INVITEE_NAME               =       "i_name"        ;
+export const INVITEE_EMAIL              =       "i_mail"        ;
+export const INVITEE_PHONE              =       "i_phone"       ;
+export const INVITEE_PIC                =       "i_pic"         ;
+export const INVITEE_PURPOSE            =       "i_purpose"     ;
+export const INVITEE_MEETING_TIME       =       "i_mtime"       ;
+export const INVITEE_TOTAL_MEMBER       =       "i_tmem"        ;
+export const INVITEE_THUMB              =       "i_thumb"       ;
+export const INVITEE_UID                =       "i_uid"         ;
+export const INVITEE_TOKEN              =       "i_token"       ;
+export const INVITEE_HASDONE            =       "hasdone"     ;

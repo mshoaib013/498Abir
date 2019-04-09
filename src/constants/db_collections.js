@@ -1,0 +1,11 @@
+export const VISITORS = "visitors";
+export const UNUSERS = "unusers";
+export const OFFICES = "offices";
+export const MAILBANK = "mailbank";
+export const INVITEES = "invitees";
+export const GUARDS = "guards";
+export const EMPLOYEESS = "employees";
+export const DELETEDEMPLOYEE = "deletedemployee";
+export const ADMINS = "admins";
+export const NOTICES = "notices";
+export const PARCELS = "parcels";

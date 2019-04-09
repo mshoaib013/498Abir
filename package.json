@@ -1,0 +1,49 @@
+{
+  "name": "rokkhi-internal-admin",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.15",
+    "@fortawesome/free-solid-svg-icons": "^5.7.2",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "bootstrap": "^4.3.1",
+    "firebase": "^5.8.4",
+    "foundation-datepicker": "^1.5.6",
+    "history": "^4.7.2",
+    "i": "^0.3.6",
+    "jquery": "^3.3.1",
+    "lodash": "^4.17.11",
+    "mdbreact": "^4.11.0",
+    "node-datetime": "^2.1.2",
+    "npm": "^6.9.0",
+    "phone": "^2.3.10",
+    "react": "^16.8.3",
+    "react-auth-firebase": "^1.2.1",
+    "react-bootstrap": "^1.0.0-beta.5",
+    "react-datepicker": "^2.3.0",
+    "react-dom": "^16.8.3",
+    "react-redux": "^6.0.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.5",
+    "redux": "^4.0.1",
+    "redux-persist": "^5.10.0",
+    "redux-promise": "^0.6.0",
+    "validate-phone-number-node-js": "0.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "postbuild": "rimraf build/**/*.map"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
