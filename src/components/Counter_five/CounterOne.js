@@ -67,7 +67,7 @@ class CounterOne extends Component {
 
   serviceOne() {
     if (date1 != null) {
-      date2 = (new Date() - date1) / 1000 / 60;
+      date2 = (new Date() - date1) / 1000;
       console.log(date2, "zzz");
       date1 = new Date();
     } else {
@@ -154,7 +154,7 @@ class CounterOne extends Component {
           <h1 className="">Counter Five</h1>
           <br />
           <h2 className="">Last Service Time</h2>
-          <h2 className="">{this.props.office_data.coFiveTime} minute</h2>
+          <h2 className="">{this.props.office_data.coFiveTime} Seconds</h2>
           <br />
           <h2 className="">Counter Total</h2>
           <h2 className="">{this.props.office_data.coFiveTotal}</h2>
